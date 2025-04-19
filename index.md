@@ -3,4 +3,4 @@
 ### size choices
 
 
-trying out sizes of defaukt font
+trying out sizes of default font
